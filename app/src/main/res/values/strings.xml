@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KanDianToQQ</string>
+    <string name="input_link">Input the share link here...</string>
+    <string name="output_qq">The QQ number will appear here.</string>
+    <string name="run_button">RUN!</string>
+    <string name="information">Information:\nCopy the QQKanDian share link and paste it. The app will show the QQ　number for you.\n</string>
+</resources>

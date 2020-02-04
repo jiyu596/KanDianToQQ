@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">看点获取QQ号</string>
+    <string name="input_link">在这里输入分享连接</string>
+    <string name="output_qq">QQ号会出现在这里</string>
+    <string name="run_button">运行</string>
+    <string name="information">
+        说明:\n
+        打开你想要获取QQ号的人的QQ看点的个人主页，复制分享的链接。\n
+        （假如不能直接得到链接请先分享到微信后点击右上角三个点，再选择复制链接）\n
+        复制完之后粘贴在第一个文本框内，点击运行即可。\n
+    </string>
+</resources>
